@@ -7,7 +7,7 @@ There is no backend included.
 ## Features
 
 - Clean and responsive layout
-- Built using HTML, CSS and Bootstrap
+- Built using HTML, CSS, JS and Bootstrap
 - Audio player for music playback
 - Video player with browser controls
 - Smooth UI components powered by Bootstrap
@@ -17,6 +17,7 @@ There is no backend included.
 - HTML
 - CSS
 - Bootstrap 5
+- JavaScript
 
 ## How to Run
 
